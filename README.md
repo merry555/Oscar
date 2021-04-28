@@ -6,4 +6,4 @@ The Academy Awards are one of the most prestigious events in the global movie in
 
 
 ## Overview of our Dataset.
-Our repository consists of four datasets: 2017,2018,2019 and 2020 reddit dataset. Each dataset includes user id, post created date, domain, full link, reddit score,  post text, subreddit name, subreddit id, thumbnail, post title and url.
+Our repository consists of four datasets: 2017,2018,2019 and 2020 subreddit/movie dataset. Each dataset includes user id, post created date, domain, full link, reddit score,  post text, subreddit name, subreddit id, thumbnail, post title and url.
