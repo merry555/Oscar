@@ -6,5 +6,12 @@ Our repository consists of four datasets: 2017,2018,2019 and 2020 subreddit/movi
 
 ## Reference
 ```
-Kim, J., Hwang, S., & Park, E. (2021). Can we predict the Oscar winner? A machine learning approach with social network services. Entertainment Computing, 100441.
+@article{kim2021can,
+  title={Can we predict the Oscar winner? A machine learning approach with social network services},
+  author={Kim, Jisu and Hwang, Syjung and Park, Eunil},
+  journal={Entertainment Computing},
+  pages={100441},
+  year={2021},
+  publisher={Elsevier}
+}
 ```
