@@ -3,3 +3,8 @@ Oscar repository is to supplement the paper "Can we predict the Oscar winner? A 
 
 ## Overview of our Dataset
 Our repository consists of four datasets: 2017,2018,2019 and 2020 subreddit/movie dataset. Each dataset includes user id, post created date, domain, full link, reddit score,  post text, subreddit name, subreddit id, thumbnail, post title and url.
+
+## Reference
+```
+Kim, J., Hwang, S., & Park, E. (2021). Can we predict the Oscar winner? A machine learning approach with social network services. Entertainment Computing, 100441.
+```
